@@ -1,0 +1,11 @@
+
+.container{
+  margin-left: 20rem;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.range{
+  margin-left: 21rem;
+  cursor: pointer;
+}
